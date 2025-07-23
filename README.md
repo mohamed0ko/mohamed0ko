@@ -24,8 +24,8 @@ I love building modern web apps using <b>Laravel</b> & <b>React.js</b>, and I’
 
 <h3>📌 Projects</h3>
 <ul>
-  <li><a href="https://github.com/MohamedKajjoua/school-portal"><b>🎓 School Portal System</b></a> - A Laravel + React system for student & parent communication</li>
-  <li><a href="https://github.com/MohamedKajjoua/ecommerce-app"><b>🛒 E-commerce Platform</b></a> - Built during my internship at Art Web</li>
+  <li><a href="https://github.com/mohamed0ko/School-Management"><b>🎓 School Portal System</b></a> - A Laravel + React system for student & parent communication</li>
+  <li><a href="https://github.com/mohamed0ko/siteEcommerce"><b>🛒 E-commerce Platform</b></a> - Built during my internship at Art Web</li>
 </ul>
 
 ---
