@@ -34,7 +34,7 @@ I love building modern web apps using <b>Laravel</b> & <b>React.js</b>, and I’
 <h3>📷 What I’m working on</h3>
 <ul>
   <li>🚀 Building modern UIs with React</li>
-  <li>🎨 Designing custom sticker packs for social media</li>
+  <li>🛠 Creating a full-featured web application with Laravel</li>
 </ul>
 
 ---
